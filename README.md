@@ -2,6 +2,7 @@
 
 I am a Full Stack Developer from Indonesia.  
 - 🌱 I’m currently learning R
+- 📖 I'm currently reading ...
 
 <!--
 **zein3/zein3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
