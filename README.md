@@ -1,4 +1,7 @@
-### Hi there 👋
+### About Me
+
+I am a Full Stack Developer from Indonesia.  
+- 🌱 I’m currently learning R
 
 <!--
 **zein3/zein3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
