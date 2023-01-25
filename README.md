@@ -2,9 +2,10 @@
 
 I am a Full Stack Developer from Indonesia.  
 
-- 💻 I'm currently working on website aksatriya
-- 🌱 I’m currently learning R
-- 📖 I'm currently reading nothing
+- 💻 I'm currently working on **Website Aksatriya**
+- 🌱 I’m currently learning **R**
+- 📖 I'm currently reading **nothing**
+- 📄 [CV&Portfolio](https://zeinhaddad.sytes.net/)
 
 ---
 
