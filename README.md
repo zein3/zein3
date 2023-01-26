@@ -1,8 +1,12 @@
+<p align="center">
+    <img src="https://media.tenor.com/gSfixE9nP7EAAAAC/cat-type.gif" />
+</p>
+
 ### 🧑 About Me
 
 I am a Full Stack Developer from Indonesia.  
 
-- 💻 I'm currently working on **Website Aksatriya**
+- 💻 I'm currently working on **Web Angkatan 63 Polstat STIS**
 - 🌱 I’m currently learning **R**
 - 📖 I'm currently reading **nothing**
 - 📄 [CV&Portfolio](https://zeinhaddad.sytes.net/)
