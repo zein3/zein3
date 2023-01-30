@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://media.tenor.com/gSfixE9nP7EAAAAC/cat-type.gif" />
-</p>
+<h3 align="center">Hello! I'm Zein Haddad!</h3>
 
 ### 🧑 About Me
 
