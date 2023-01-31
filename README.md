@@ -2,11 +2,11 @@
 
 ### 🧑 About Me
 
-I am a Full Stack Developer from Indonesia.  
+I am an undergraduate student and a full stack developer from Indonesia.  
 
 - 💻 I'm currently working on **Web Angkatan 63 Polstat STIS**
 - 🌱 I’m currently learning **R**
-- 📖 I'm currently reading **nothing**
+- 📖 I'm currently reading **R for Data Science**
 - 📄 [CV&Portfolio](https://zeinhaddad.sytes.net/)
 
 ---
