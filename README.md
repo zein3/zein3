@@ -4,8 +4,8 @@
 
 I am an undergraduate student and a full stack developer from Indonesia.  
 
-- 💻 I'm currently working on **Metadata Management System for Statistical Classification**
-- 🌱 I’m currently learning **Android Development**
+- 💻 I'm currently working on **Data Collection App**
+- 🌱 I’m currently learning **Flutter**
 - 📄 [CV&Portfolio](https://zeinhaddad.sytes.net/)
 
 ---
