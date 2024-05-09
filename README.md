@@ -5,7 +5,7 @@
 I am an undergraduate student and a full stack developer from Indonesia.  
 
 - 💻 I'm currently not working on any project
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Data Engineering** and **Cyber Security**
 - 📄 [CV&Portfolio](https://zeinhaddad.sytes.net/)
 
 ---
