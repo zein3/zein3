@@ -4,8 +4,8 @@
 
 I am an undergraduate student and a full stack developer from Indonesia.  
 
-- 💻 I'm currently not working on any project
-- 🌱 I’m currently learning **Data Engineering** and **Cyber Security**
+- 💻 I'm currently working on my undergraduate thesis 🎓
+- 🌱 I’m currently learning **Mobile Development**
 - 📄 [CV&Portfolio](https://zeinhaddad.sytes.net/)
 
 ---
